@@ -26,9 +26,10 @@ Follow these guidelines for committing:
 
 We would like you to have well over 200 commits by graduation, so commit early and often!
 ## Demo Video -
-<iframe src="https://drive.google.com/file/d/1wj9DbzDo8vMGg-av_WX46kb_NVJv2CBt/preview" width="640" height="480"></iframe>
+![alt text](https://drive.google.com/file/d/1wj9DbzDo8vMGg-av_WX46kb_NVJv2CBt/view "DEMO")
 
 ## Screenshot- 
-![alt text](https://github.com/DarkDave1185/noteTaker/blob/master/noteTaker_screen.JPG "indexScreen")
+![alt text](https://github.com/DarkDave1185/engineTemplate/blob/master/Screens/engineTemplate.JPG "teamScreen")
+![alt text](https://github.com/DarkDave1185/engineTemplate/blob/master/Screens/npmTestRun.JPG "npmTest")
 ## Deployment Link- 
 https://github.com/DarkDave1185/noteTaker
