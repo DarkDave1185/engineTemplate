@@ -1,0 +1,21 @@
+.container {
+    justify-content: center;
+}
+
+.card {
+    background-color: rgb(94, 93, 99);
+    color: rgb(64, 211, 211);
+    justify-content: center;
+}
+
+.card-title {
+    color: firebrick;
+}
+
+.card-subtitle {
+    color: tomato;
+}
+
+.card-link {
+    color: limegreen;
+}
